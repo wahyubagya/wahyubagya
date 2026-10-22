@@ -17,10 +17,10 @@
 
 I am a results-oriented **Full-Stack Web Engineer** holding an Informatics Engineering degree from **STMIK STIKOM Indonesia**, based in Bali. I architect reliable web systems and clean user experiences, bridging solid backend database performance with modern, reactive client interfaces.
 
-- 🔭 **Currently**: Architecting modular web platforms and headless portals at **Maju Agency**.
+- 🔭 **Currently**: Working as a **Freelance Full-Stack Web Engineer**, architecting modular web platforms and high-speed headless portals.
 - 💼 **Experience**: **10+ years** in web engineering & digital products, with **28+ production systems** delivered for European & international clients.
 - ⚡ **Core Stack**: **Next.js**, **TypeScript**, **PHP (Laravel & Roots Sage/Acorn)**, and **MySQL**.
-- 📍 **Availability**: Available for full-time on-site collaboration in Bali or remote worldwide.
+- 📍 **Availability**: Available for freelance contracts, full-time opportunities, or remote collaboration worldwide.
 
 ---
 
