@@ -77,6 +77,18 @@ I am a results-oriented **Full-Stack Web Engineer** holding an Informatics Engin
   </tr>
 </table>
 
+---
+
+### 🎮 Contribution Graph
+
+<div align="center">
+  <picture data-importer="pacman">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wahyubagya/wahyubagya/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wahyubagya/wahyubagya/pacman-output/pacman-contribution-graph.svg?game=pacman">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wahyubagya/wahyubagya/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  </picture>
+</div>
+
 <br/>
 
 <div align="center">
