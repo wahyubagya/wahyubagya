@@ -77,29 +77,6 @@ I am a results-oriented **Full-Stack Web Engineer** holding an Informatics Engin
   </tr>
 </table>
 
----
-
-### 🚀 Selected Production Systems
-
-| Project | Role / Stack | Live Link |
-|:---|:---|:---|
-| **Maju Properties** | Front-End • Next.js, TypeScript, GraphQL, Tailwind | [majuproperties.com ↗](https://majuproperties.com/) |
-| **CLC Immo** | Full-Stack • PHP (Roots Sage), Blade, MySQL, Tailwind | [clcimmo.be ↗](https://clcimmo.be/) |
-| **MyLombok** | Front-End • Next.js, TypeScript, GraphQL, Headless | [mylombok.com ↗](https://mylombok.com/) |
-| **La Cabanouille** | Full-Stack • WordPress, Sage / Acorn, Laravel, Tailwind | [lacabanouille.be ↗](https://lacabanouille.be/) |
-| **Ardyanatypes Studio** | Technical Founder • Laravel, PHP, JS, MySQL, Commerce | [ardyanatypes.com ↗](https://ardyanatypes.com/) |
-| **Open Source Europe** | Full-Stack • Roots Sage / Acorn, Blade, Tailwind | [opensourceeurope.org ↗](https://opensourceeurope.org/) |
-| **Personal Portfolio** | Full-Stack • Next.js 16 (Turbopack), Tailwind v4, Vercel | [iwwba.vercel.app ↗](https://iwwba.vercel.app/) |
-
----
-
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wahyubagya&show_icons=true&theme=radical&hide_border=true&bg_color=121212&title_color=7c5cff&icon_color=7c5cff&text_color=e8e6ef" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wahyubagya&layout=compact&theme=radical&hide_border=true&bg_color=121212&title_color=7c5cff&text_color=e8e6ef" height="165" alt="Top Languages" />
-</div>
-
 <br/>
 
 <div align="center">
