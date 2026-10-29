@@ -4,10 +4,9 @@
 
 <div align="center">
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-iwwba.vercel.app-7c5cff?style=for-the-badge&logo=vercel&logoColor=white)](https://iwwba.vercel.app)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-wahyubagya-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahyubagya/)
   [![Email](https://img.shields.io/badge/Email-wahyubagyaarta%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wahyubagyaarta@gmail.com)
-  [![Location](https://img.shields.io/badge/Location-Bali%2C%20Indonesia-121212?style=for-the-badge&logo=googlemaps&logoColor=white)](https://iwwba.vercel.app)
+  ![Location](https://img.shields.io/badge/Location-Bali%2C%20Indonesia-121212?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
